@@ -1,0 +1,3 @@
+[submodule "seraph-zmk-module"]
+	path = seraph-zmk-module
+	url = https://github.com/5-pebbles/seraph-zmk-module.git
